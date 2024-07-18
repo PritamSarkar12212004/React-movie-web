@@ -12,10 +12,10 @@ function Nevigation() {
         />
       </button>
       <NavLink to="/" className={`h-full flex items-center`}>
-        <img className="h-1/2" src="public/Home/home.png" alt="" />
+        <img className="h-1/2" src="/Home/home.png" alt="" />
       </NavLink>
       <button className="h-[70%]">
-        <img className="h-full" src="public/Navegiton/ham.png" alt="" />
+        <img className="h-full" src="/Navegiton/ham.png" alt="" />
       </button>
     </div>
   );
