@@ -7,7 +7,7 @@ function Nevigation() {
       <button className="h-full">
         <img
           className="h-full"
-          src="public/theme/brightness-and-contrast.png"
+          src="/theme/brightness-and-contrast.png"
           alt=""
         />
       </button>
