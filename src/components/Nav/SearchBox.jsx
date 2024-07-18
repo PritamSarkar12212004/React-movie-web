@@ -7,7 +7,7 @@ function SearchBox() {
       <input
         type="text"
         placeholder="search movie"
-        className="h-full  bg-slate-300 rounded-lg px-2 outline-none  sm:w-[30%] md:w-[50%] lg:w-[60%]"
+        className="h-full  bg-slate-300 rounded-lg px-2 outline-none  w-[70%]"
       />
     </div>
   );
