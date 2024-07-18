@@ -5,7 +5,7 @@ function SideNav() {
   return (
     <div
       className={`w-[95%] h-screen rounded-s-xl ${
-        sideNav ? `absolute right-0` : `absolute right-[-100%]`
+        sideNav ? ` flex absolute right-0 ` : ` hidden `
       }  bg-slate-300 `}
     ></div>
   );
